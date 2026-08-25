@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 
-🌐 Portfolio: https://ifee-dev.vercel.app
-💼 LinkedIn: https://www.linkedin.com/in/osinugaifeoluwa/
-🐦 X (Twitter): https://x.com/ifee_xoxo
-📧 Email: osinugaifeoluwa1@gmail.com
+🌐 Portfolio: https://ifee-dev.vercel.app <br>
+💼 LinkedIn: https://www.linkedin.com/in/osinugaifeoluwa/ <br>
+🐦 X (Twitter): https://x.com/ifee_xoxo <br>
+📧 Email: osinugaifeoluwa1@gmail.com <br>
