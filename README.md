@@ -1,6 +1,6 @@
 ## Hi, I'm Ifeoluwa 👋
 
-**Frontend Engineer** in Lagos, building fast, accessible interfaces with React, Next.js and TypeScript.
+**Frontend Engineer** , building fast, accessible interfaces with React, Next.js and TypeScript.
 
 - 🔨 Currently building an AI-powered enterprise QA platform
 - 🏆 **Winner, Upskill by Cardtonic 3.0**: one of 7 Software Engineering winners from 16,000+ applicants
