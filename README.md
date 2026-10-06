@@ -19,9 +19,9 @@
 ### 🧰 Toolkit
 
 **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · TanStack Query · Zustand · React Hook Form + Zod · shadcn/ui · Framer Motion
-**Mobile:** React Native · Expo
-**Testing:** Vitest · Jest · React Testing Library · Playwright
-**Backend & cloud:** Node.js · Express · PostgreSQL · Prisma · Firebase · AWS · Terraform
+<br/>**Mobile:** React Native · Expo
+<br/>**Testing:** Vitest · Jest · React Testing Library · Playwright
+<br/>**Backend & cloud:** Node.js · Express · PostgreSQL · Prisma · Firebase · AWS · Terraform
 
 ### 📫 Find me
 
